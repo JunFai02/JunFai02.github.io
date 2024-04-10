@@ -343,6 +343,10 @@ section {
   line-height: 0;
 }
 
+.about .content p{
+  text-align: justify;
+}
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
